@@ -1,0 +1,65 @@
+.dialog {
+ margin:0px auto;
+ min-width:20em;
+ max-width : 300px;
+/*  color:#000; */
+}
+
+.dialog .hd .c,
+.dialog .ft .c {
+ font-size:1px; /* ensure minimum height */
+ height:23px;
+}
+
+.dialog .ft .c {
+ height:23px;
+}
+
+.dialog .hd {
+ background:transparent url(images/borders/top-left.png) no-repeat 0px 0px;
+}
+
+.dialog .hd .c {
+ background:transparent url(images/borders/top-right.png) no-repeat right 0px;
+}
+
+.dialog .bd {
+ /*background:transparent url(images/borders/middle-left.png) repeat-y 0px 0px;*/
+}
+
+.dialog .bd .c {
+ /*background:transparent url(images/borders/middle-right.png) repeat-y right 0px;*/
+}
+
+.dialog .bd .c .s {
+ margin:0px 8px 0px 4px;
+ /*background:#000 url(images/ms.jpg) repeat-x 0px 0px;*/
+/*  background-color: #fdfdfd; */
+ padding:1em;
+}
+
+.dialog .ft {
+ background:transparent url(images/borders/bottom-left.png) no-repeat 0px 0px;
+}
+
+.dialog .ft .c {
+ background:transparent url(images/borders/bottom-right.png) no-repeat right 0px;
+}
+
+
+/* content-specific */
+
+.dialog h1 {
+ /* header */
+ margin:0px;
+ padding:0px;
+ margin-top:-0.6em;
+}
+
+.dialog p {
+ margin:0.5em 0px 0px 0px;
+ padding:0px;
+}
+
+html>body .dialog pre {
+}
