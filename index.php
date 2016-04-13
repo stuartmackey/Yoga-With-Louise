@@ -139,7 +139,7 @@
           <div class="col-sm-6">
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h3 class="panel-title">Thursday 7:30pm - 8:30pm</h3>
+                <h3 class="panel-title">Thursday 7:00pm - 8:00pm</h3>
               </div>
               <div class="panel-body">
                 <div class="entry">
