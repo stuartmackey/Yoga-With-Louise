@@ -139,13 +139,13 @@
           <div class="col-sm-6">
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h3 class="panel-title">Thursday 7:00pm - 8:00pm</h3>
+                <h3 class="panel-title">Thursday 11:00am - 12:00pm</h3>
               </div>
               <div class="panel-body">
                 <div class="entry">
-                <div class="type">Beginners Yoga</div>
-                <div class="location">Spa Primary School, Spa (<a href='https://www.google.co.uk/maps/place/Spa+Primary+School/@54.3746323,-5.9025688,15z/data=!4m2!3m1!1s0x0:0x6255c7e33eaa83d2'>map</a>)</div>
-              </div>
+                  <div class="type">Chair Yoga</div>
+                  <div class="location">Private Class</div>
+                </div>
               </div>
             </div>
           </div>
@@ -161,22 +161,6 @@
                 <div class="entry">
                 <div class="type">Chair Yoga</div>
                 <div class="location">Private Class</div>
-              </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class='row'>
-          <div class="col-sm-6">
-            <div class="panel panel-default">
-              <div class="panel-heading">
-                <h3 class="panel-title">Saturday 10:00am - 12:00pm</h3>
-              </div>
-              <div class="panel-body">
-                <div class="entry">
-                <div class="type">Yoga Workshops</div>
-                <div class="location">Cresent Arts Centre, Belfast (<a href='http://www.crescentarts.org/content.cfm?ck=23'>map</a>)</div>
               </div>
               </div>
             </div>
